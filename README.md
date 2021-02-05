@@ -1,5 +1,5 @@
 # Innovative
-Authors
-Jainik Bakshi
-Meet Amin
+Authors:
+Jainik Bakshi,
+Meet Amin,
 Aditya Singh
